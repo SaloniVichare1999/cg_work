@@ -10,7 +10,7 @@
 const person = {
   firstName: "John",
   lastName: "Doe",
-  age: 50,
+  age: 40,
   eyeColor: "blue"
 };
 
